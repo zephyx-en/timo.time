@@ -8,7 +8,7 @@ For the privacy policy and the TOS, it is available via the main menu of the app
 
 A calm, customizable focus timer that runs right in your browser. No account, no server, nothing to install.
 
-**Live Website:** [https://pomorotime.vercel.app/]
+**Live Website:** [https://timotime.vercel.app/]
 
 ## Features
 
