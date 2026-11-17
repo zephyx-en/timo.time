@@ -1,18 +1,27 @@
 # NOTICE:
 
-For privacy policy check #privacypolicy.txt and for TOS check termsofservice.txt. This is also available in the main menu of the app.
+For the privacy policy and the TOS, it is available via the main menu of the application.
 
 # App Information
 
-Pomoro.time is a Pomodoro focused style website that lets users to focus and use the timer while having an ad-free and subscription-free experience.
+# Timo.time
 
-What this app features:
-This app features a built in screensaver, Themes, A notepad, and more. In the app, you can also remove distracting things.
+A calm, customizable focus timer that runs right in your browser. No account, no server, nothing to install.
 
-NOTE: This app is NOT completed. Sign in for Google, Microsoft, and Apple DO NOT work. Everything is saved locally on your computer for privacy reasons.
+**Live Website:** [https://pomorotime.vercel.app/]
 
-This app was mainly made by ChatGPT and Claude for the tedious parts, while all design was handled by the two developers
-URL to the project: Not Published
+## Features
 
-Copyright Doufus Studios, you may not reproduce, or claim this as your own
-Description to be updated.
+- **Flexible timer:** quick presets (5 to 30 minutes), a custom time like `10:00`, or a "ring at" time that counts down to a clock time
+- **Progress ring:** a ring around the clock shrinks as your time runs out
+- **Themes:** a gallery of color themes, including seasonal ones, plus your own photo as a background
+- **Notepad:** jot down notes and checklists next to your timer
+- **Gentle reminders:** a nudge at the halfway point and with one minute left
+- **Screensaver clock:** a full-screen clock with several styles, including a flip clock
+- **Focus mode:** hide everything but the timer
+- **Private:** your settings and notes stay saved in your browser
+- **Responsive:** works on desktop and phones
+
+## Feedback
+
+Have an idea? Use the suggestion box inside the app.
